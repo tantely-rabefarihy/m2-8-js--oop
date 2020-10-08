@@ -55,6 +55,10 @@ class BookList {
     });
     return numUnread;
   };
+
+  startReading = () => {
+this.
+  } 
 }
 
 let homeLibrary = new BookList();
