@@ -5,7 +5,7 @@
 // A) In the previous exercises, we created a Cat class and used it to create a
 //    `boots` object.
 //    Rewrite that Cat class, but let's also add some functions that will
-//    modify the various porperties of a cat.
+//    modify the various properties of a cat.
 //    Write methods that will update tiredness, hunger, loneliness, and
 //    happiness.
 
